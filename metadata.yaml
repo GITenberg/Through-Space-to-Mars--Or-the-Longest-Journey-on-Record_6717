@@ -1,0 +1,25 @@
+_repo: Through-Space-to-Mars--Or-the-Longest-Journey-on-Record_6717
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rockwood, Roy
+    gutenberg_agent_id: '1625'
+    url: http://www.gutenberg.org/2009/agents/1625
+    wikipedia: http://en.wikipedia.org/wiki/Roy_Rockwood
+description: 'Great Marvel Series: Volume 4'
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6717'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Science fiction'
+- !lcsh 'Space flight to Mars -- Juvenile fiction'
+- GITenberg
+title: Through Space to Mars; Or, the Longest Journey on Record
+url: http://www.gutenberg.org/ebooks/6717
