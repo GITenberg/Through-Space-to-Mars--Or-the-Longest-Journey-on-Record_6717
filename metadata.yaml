@@ -1,5 +1,8 @@
 _repo: Through-Space-to-Mars--Or-the-Longest-Journey-on-Record_6717
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rockwood, Roy
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1625
     wikipedia: http://en.wikipedia.org/wiki/Roy_Rockwood
 description: 'Great Marvel Series: Volume 4'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6717#Through-Space-to-Mars--Or-the-Longest-Journey-on-Record
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
